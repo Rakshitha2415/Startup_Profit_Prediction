@@ -22,7 +22,7 @@ You can find the dataset [here.](https://www.kaggle.com/datasets/farhanmd29/50-s
 ## setup
 To create a project from scratch use following steps - -
 
-- Clone the repository : https://github.com/ni3choudhary/Startup-Business-Profit-Prediction-Deployment.git
+- Clone the repository :https://github.com/Rakshitha2415/Startup_Profit_Prediction
 - Inside the project root directory, Create Python Virtual Environment using below command.
 ```console
 $ python3 -m venv env
