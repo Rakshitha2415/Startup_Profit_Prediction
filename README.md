@@ -46,7 +46,3 @@ $ pip install -r requirements.txt
 ```console
 $ python app.py
 ```
-
-• If you want to view the deployed model, click on the following link: Deployed at: https://start-up-app-profit-prediction.herokuapp.com/
-
-• Please do ⭐ the repository, if it helped you in anyway.
